@@ -1,0 +1,15 @@
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore\bin\Debug\net5.0\Hf.Core.EfCore.GenericRepoitory.dll
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore\obj\Debug\net5.0\Hf.Core.EfCore.csprojAssemblyReference.cache
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore\obj\Debug\net5.0\Hf.Core.EfCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore\obj\Debug\net5.0\Hf.Core.EfCore.AssemblyInfoInputs.cache
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore\obj\Debug\net5.0\Hf.Core.EfCore.AssemblyInfo.cs
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore\obj\Debug\net5.0\Hf.Core.EfCore.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore\bin\Debug\net5.0\Hf.Core.EfCore.deps.json
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore\bin\Debug\net5.0\Hf.Core.EfCore.dll
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore\bin\Debug\net5.0\ref\Hf.Core.EfCore.dll
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore\bin\Debug\net5.0\Hf.Core.EfCore.pdb
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore\bin\Debug\net5.0\Hf.Core.EfCore.GenericRepoitory.pdb
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore\obj\Debug\net5.0\Hf.Core.EfCore.csproj.CopyComplete
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore\obj\Debug\net5.0\Hf.Core.EfCore.dll
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore\obj\Debug\net5.0\ref\Hf.Core.EfCore.dll
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore\obj\Debug\net5.0\Hf.Core.EfCore.pdb

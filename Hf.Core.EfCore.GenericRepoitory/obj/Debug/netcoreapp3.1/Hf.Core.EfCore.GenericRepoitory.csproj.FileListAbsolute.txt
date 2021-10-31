@@ -1,0 +1,10 @@
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore.GenericRepoitory\obj\Debug\netcoreapp3.1\Hf.Core.EfCore.GenericRepoitory.csprojAssemblyReference.cache
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore.GenericRepoitory\obj\Debug\netcoreapp3.1\Hf.Core.EfCore.GenericRepoitory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore.GenericRepoitory\obj\Debug\netcoreapp3.1\Hf.Core.EfCore.GenericRepoitory.AssemblyInfoInputs.cache
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore.GenericRepoitory\obj\Debug\netcoreapp3.1\Hf.Core.EfCore.GenericRepoitory.AssemblyInfo.cs
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore.GenericRepoitory\obj\Debug\netcoreapp3.1\Hf.Core.EfCore.GenericRepoitory.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore.GenericRepoitory\bin\Debug\netcoreapp3.1\Hf.Core.EfCore.GenericRepoitory.deps.json
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore.GenericRepoitory\bin\Debug\netcoreapp3.1\Hf.Core.EfCore.GenericRepoitory.dll
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore.GenericRepoitory\bin\Debug\netcoreapp3.1\Hf.Core.EfCore.GenericRepoitory.pdb
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore.GenericRepoitory\obj\Debug\netcoreapp3.1\Hf.Core.EfCore.GenericRepoitory.dll
+C:\Users\Hossein\source\repos\Hf.Core.EfCore.GenericRepoitory\Hf.Core.EfCore.GenericRepoitory\obj\Debug\netcoreapp3.1\Hf.Core.EfCore.GenericRepoitory.pdb
